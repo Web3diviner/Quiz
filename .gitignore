@@ -1,0 +1,20 @@
+# Dependencies
+node_modules
+.pnp
+.pnp.js
+
+# Production build
+dist
+build
+
+# Vite & IDE
+.vite
+.tempmediaStorage
+.system_generated
+.gemini
+*.local
+*.log
+
+# OS
+.DS_Store
+Thumbs.db

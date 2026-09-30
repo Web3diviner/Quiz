@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "q1",
+    "category": "Nigeria Current Affairs — Sep 2026",
+    "question": "Who is the President of the Federal Republic of Nigeria as of September 2026?",
+    "options": {
+      "A": "Bola Ahmed Tinubu",
+      "B": "Kashim Shettima",
+      "C": "Goodluck Jonathan",
+      "D": "Muhammadu Buhari"
+    },
+    "correctAnswer": "A",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q2",
+    "category": "Nigeria Current Affairs — Sep 2026",
+    "question": "Who is Nigeria's Vice President as of September 2026?",
+    "options": {
+      "A": "Godswill Akpabio",
+      "B": "Kashim Shettima",
+      "C": "Tajudeen Abbas",
+      "D": "Femi Gbajabiamila"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q3",
+    "category": "Nigeria Current Affairs — Sep 2026",
+    "question": "Who is the President of the Nigerian Senate in the 10th National Assembly?",
+    "options": {
+      "A": "Tajudeen Abbas",
+      "B": "Benjamin Kalu",
+      "C": "Godswill Akpabio",
+      "D": "Michael Bamidele"
+    },
+    "correctAnswer": "C",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q4",
+    "category": "Nigeria Current Affairs — Sep 2026",
+    "question": "Who is the Speaker of Nigeria's House of Representatives in the 10th National Assembly?",
+    "options": {
+      "A": "Tajudeen Abbas",
+      "B": "Godswill Akpabio",
+      "C": "Ibrahim Jibrin",
+      "D": "Benjamin Kalu"
+    },
+    "correctAnswer": "A",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q5",
+    "category": "Nigeria Current Affairs — Sep 2026",
+    "question": "Who is the Chief Justice of Nigeria as of September 2026?",
+    "options": {
+      "A": "Olukayode Ariwoola",
+      "B": "Kudirat Kekere-Ekun",
+      "C": "Walter Onnoghen",
+      "D": "Tanko Muhammad"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Medium",
+    "points": 20
+  },
+  {
+    "id": "q6",
+    "category": "Nigerian & World History",
+    "question": "In what year were the Northern and Southern protectorates of Nigeria amalgamated under Lord Lugard?",
+    "options": {
+      "A": "1900",
+      "B": "1914",
+      "C": "1922",
+      "D": "1960"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q7",
+    "category": "Nigerian & World History",
+    "question": "On what exact date did Nigeria officially gain independence from British colonial rule?",
+    "options": {
+      "A": "1 October 1960",
+      "B": "15 January 1966",
+      "C": "1 October 1963",
+      "D": "29 May 1999"
+    },
+    "correctAnswer": "A",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q8",
+    "category": "Nigerian & World History",
+    "question": "Who was Nigeria's first and only Prime Minister following independence in 1960?",
+    "options": {
+      "A": "Sir Ahmadu Bello",
+      "B": "Sir Abubakar Tafawa Balewa",
+      "C": "Dr. Nnamdi Azikiwe",
+      "D": "Chief Obafemi Awolowo"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q9",
+    "category": "Nigerian & World History",
+    "question": "Who served as Nigeria's first ceremonial President when the country became a Republic in 1963?",
+    "options": {
+      "A": "Dr. Nnamdi Azikiwe",
+      "B": "Major-General J.T.U. Aguiyi-Ironsi",
+      "C": "General Yakubu Gowon",
+      "D": "Chief Ernest Shonekan"
+    },
+    "correctAnswer": "A",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q10",
+    "category": "Nigerian & World History",
+    "question": "Who was the first Premier of Nigeria's Western Region and pioneer of free universal primary education?",
+    "options": {
+      "A": "Samuel Ladoke Akintola",
+      "B": "Chief Obafemi Awolowo",
+      "C": "Herbert Macaulay",
+      "D": "Funmilayo Ransome-Kuti"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q11",
+    "category": "Nigerian & World History",
+    "question": "Who was the first Premier of the Northern Region of Nigeria and Sardauna of Sokoto?",
+    "options": {
+      "A": "Sir Kashim Ibrahim",
+      "B": "Sir Ahmadu Bello",
+      "C": "Aminu Kano",
+      "D": "Shehu Shagari"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q12",
+    "category": "Nigerian & World History",
+    "question": "Which ancient pre-colonial civilization in Nigeria was celebrated for its world-renowned bronze casting and extensive defensive moats?",
+    "options": {
+      "A": "The Benin Kingdom",
+      "B": "The Oyo Empire",
+      "C": "The Kanem-Bornu Empire",
+      "D": "The Nupe Kingdom"
+    },
+    "correctAnswer": "A",
+    "difficulty": "Medium",
+    "points": 20
+  },
+  {
+    "id": "q13",
+    "category": "Nigerian & World History",
+    "question": "Which ancient civilization in central Nigeria produced the oldest known terracotta sculptures in Sub-Saharan Africa?",
+    "options": {
+      "A": "The Nok Culture",
+      "B": "The Igbo-Ukwu Culture",
+      "C": "The Ife Culture",
+      "D": "The Bini Culture"
+    },
+    "correctAnswer": "A",
+    "difficulty": "Medium",
+    "points": 20
+  },
+  {
+    "id": "q14",
+    "category": "Nigerian & World History",
+    "question": "Who designed Nigeria's green-white-green national flag in 1959?",
+    "options": {
+      "A": "Michael Taiwo Akinkunmi",
+      "B": "Ben Enwonwu",
+      "C": "Aina Onabolu",
+      "D": "Bruce Onobrakpeya"
+    },
+    "correctAnswer": "A",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q15",
+    "category": "Nigerian & World History",
+    "question": "Nigeria's National Democracy Day is officially commemorated on which date in honor of the historic June 12, 1993 election?",
+    "options": {
+      "A": "1 October",
+      "B": "29 May",
+      "C": "12 June",
+      "D": "15 January"
+    },
+    "correctAnswer": "C",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q16",
+    "category": "Nigerian & World History",
+    "question": "Who became Nigeria's first military Head of State following the coup of January 15, 1966?",
+    "options": {
+      "A": "General Yakubu Gowon",
+      "B": "Major-General Johnson Aguiyi-Ironsi",
+      "C": "General Murtala Muhammed",
+      "D": "General Olusegun Obasanjo"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Medium",
+    "points": 20
+  },
+  {
+    "id": "q17",
+    "category": "Nigerian & World History",
+    "question": "Which Nigerian military leader created the first 12 states out of the four regions in May 1967?",
+    "options": {
+      "A": "General Yakubu Gowon",
+      "B": "General Ibrahim Babangida",
+      "C": "General Sani Abacha",
+      "D": "General Abdulsalami Abubakar"
+    },
+    "correctAnswer": "A",
+    "difficulty": "Medium",
+    "points": 20
+  },
+  {
+    "id": "q18",
+    "category": "Nigerian & World History",
+    "question": "In what year was Nigeria's federal capital officially relocated from Lagos to Abuja (FCT)?",
+    "options": {
+      "A": "1976",
+      "B": "1985",
+      "C": "1991",
+      "D": "1999"
+    },
+    "correctAnswer": "C",
+    "difficulty": "Medium",
+    "points": 20
+  },
+  {
+    "id": "q19",
+    "category": "Nigerian & World History",
+    "question": "Which legendary Nigerian nationalist educator and activist led the 1947 Abeokuta Women's Revolt?",
+    "options": {
+      "A": "Margaret Ekpo",
+      "B": "Funmilayo Ransome-Kuti",
+      "C": "Gambo Sawaba",
+      "D": "Queen Amina of Zazzau"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Medium",
+    "points": 20
+  },
+  {
+    "id": "q20",
+    "category": "Nigerian & World History",
+    "question": "The historic 1929 Aba Women's War was a mass anti-colonial protest primarily sparked by what issue?",
+    "options": {
+      "A": "Resistance against British colonial taxation on women and warrant chiefs",
+      "B": "Land boundary disputes with neighboring colonies",
+      "C": "Introduction of foreign school curriculum",
+      "D": "Railway construction forced labor demands"
+    },
+    "correctAnswer": "A",
+    "difficulty": "Hard",
+    "points": 30
+  },
+  {
+    "id": "q21",
+    "category": "Nigerian & World History",
+    "question": "In May 2024, Nigeria officially reverted to which historic national anthem originally adopted at independence in 1960?",
+    "options": {
+      "A": "Arise, O Compatriots",
+      "B": "Nigeria, We Hail Thee",
+      "C": "Land of Hope and Glory",
+      "D": "Song of the Federal Republic"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q22",
+    "category": "Nigerian & World History",
+    "question": "Which British colonial constitution introduced a comprehensive federal system of government to Nigeria in 1954?",
+    "options": {
+      "A": "The Clifford Constitution",
+      "B": "The Richards Constitution",
+      "C": "The Macpherson Constitution",
+      "D": "The Lyttelton Constitution"
+    },
+    "correctAnswer": "D",
+    "difficulty": "Hard",
+    "points": 30
+  },
+  {
+    "id": "q23",
+    "category": "Nigerian & World History",
+    "question": "Who founded the historic Sokoto Caliphate in 1804 following a major reform movement across the Hausa states?",
+    "options": {
+      "A": "Usman dan Fodio",
+      "B": "Muhammad Bello",
+      "C": "El-Kanemi",
+      "D": "Mai Idris Alooma"
+    },
+    "correctAnswer": "A",
+    "difficulty": "Medium",
+    "points": 20
+  },
+  {
+    "id": "q24",
+    "category": "Nigerian & World History",
+    "question": "Who was elected as Nigeria's first Executive President during the Second Republic in 1979?",
+    "options": {
+      "A": "Chief Obafemi Awolowo",
+      "B": "Dr. Nnamdi Azikiwe",
+      "C": "Alhaji Shehu Shagari",
+      "D": "Waziri Ibrahim"
+    },
+    "correctAnswer": "C",
+    "difficulty": "Medium",
+    "points": 20
+  },
+  {
+    "id": "q25",
+    "category": "Nigerian & World History",
+    "question": "In what year did Nigeria transition from military rule to the Fourth Democratic Republic?",
+    "options": {
+      "A": "1983",
+      "B": "1993",
+      "C": "1999",
+      "D": "2007"
+    },
+    "correctAnswer": "C",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q26",
+    "category": "Nigerian & World History",
+    "question": "In what year was the Organization of African Unity (now the African Union) founded in Addis Ababa with Nigeria as a founding member?",
+    "options": {
+      "A": "1957",
+      "B": "1960",
+      "C": "1963",
+      "D": "1975"
+    },
+    "correctAnswer": "C",
+    "difficulty": "Hard",
+    "points": 30
+  },
+  {
+    "id": "q27",
+    "category": "Nigerian & World History",
+    "question": "In what year was the United Nations (UN) established following the end of World War II?",
+    "options": {
+      "A": "1918",
+      "B": "1945",
+      "C": "1950",
+      "D": "1960"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Medium",
+    "points": 20
+  },
+  {
+    "id": "q28",
+    "category": "Nigerian & World History",
+    "question": "Who served as South Africa's first democratically elected black President from 1994 to 1999 after spending 27 years in prison for opposing apartheid?",
+    "options": {
+      "A": "Desmond Tutu",
+      "B": "Oliver Tambo",
+      "C": "Nelson Mandela",
+      "D": "Steve Biko"
+    },
+    "correctAnswer": "C",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q29",
+    "category": "Nigerian & World History",
+    "question": "Who was the first African playwright and author to be awarded the Nobel Prize in Literature in 1986?",
+    "options": {
+      "A": "Chinua Achebe",
+      "B": "Wole Soyinka",
+      "C": "Ngũgĩ wa Thiong'o",
+      "D": "Leopold Senghor"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q30",
+    "category": "Nigerian & World History",
+    "question": "Which 1958 classic historical novel by Chinua Achebe depicts Igbo society before and during the arrival of European colonialists?",
+    "options": {
+      "A": "Arrow of God",
+      "B": "No Longer at Ease",
+      "C": "Things Fall Apart",
+      "D": "A Man of the People"
+    },
+    "correctAnswer": "C",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q31",
+    "category": "Bible",
+    "question": "What is the first book of the Bible?",
+    "options": {
+      "A": "Exodus",
+      "B": "Genesis",
+      "C": "Psalms",
+      "D": "Matthew"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q32",
+    "category": "Bible",
+    "question": "What is the last book of the New Testament?",
+    "options": {
+      "A": "Jude",
+      "B": "Acts",
+      "C": "Revelation",
+      "D": "Hebrews"
+    },
+    "correctAnswer": "C",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q33",
+    "category": "Bible",
+    "question": "Who built the ark before the great flood?",
+    "options": {
+      "A": "Abraham",
+      "B": "Moses",
+      "C": "Noah",
+      "D": "Jacob"
+    },
+    "correctAnswer": "C",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q34",
+    "category": "Bible",
+    "question": "What was the name of Abraham's wife?",
+    "options": {
+      "A": "Rachel",
+      "B": "Sarah",
+      "C": "Rebekah",
+      "D": "Leah"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q35",
+    "category": "Bible",
+    "question": "Who led the Israelites out of Egypt?",
+    "options": {
+      "A": "Joshua",
+      "B": "Moses",
+      "C": "Aaron",
+      "D": "Joseph"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q36",
+    "category": "Bible",
+    "question": "On which mountain did Moses receive the Ten Commandments?",
+    "options": {
+      "A": "Mount Carmel",
+      "B": "Mount Sinai",
+      "C": "Mount Zion",
+      "D": "Mount Tabor"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Medium",
+    "points": 20
+  },
+  {
+    "id": "q37",
+    "category": "Bible",
+    "question": "Who defeated Goliath?",
+    "options": {
+      "A": "Saul",
+      "B": "Jonathan",
+      "C": "David",
+      "D": "Samuel"
+    },
+    "correctAnswer": "C",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q38",
+    "category": "Bible",
+    "question": "Which king was especially known for asking God for wisdom?",
+    "options": {
+      "A": "David",
+      "B": "Saul",
+      "C": "Solomon",
+      "D": "Hezekiah"
+    },
+    "correctAnswer": "C",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q39",
+    "category": "Bible",
+    "question": "On which mountain did Elijah challenge the prophets of Baal?",
+    "options": {
+      "A": "Mount Carmel",
+      "B": "Mount Sinai",
+      "C": "Mount Ararat",
+      "D": "Mount Olivet"
+    },
+    "correctAnswer": "A",
+    "difficulty": "Medium",
+    "points": 20
+  },
+  {
+    "id": "q40",
+    "category": "Bible",
+    "question": "To which city was Jonah sent to preach?",
+    "options": {
+      "A": "Jericho",
+      "B": "Nineveh",
+      "C": "Bethlehem",
+      "D": "Damascus"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q41",
+    "category": "Bible",
+    "question": "Who was thrown into a den of lions?",
+    "options": {
+      "A": "Joseph",
+      "B": "Daniel",
+      "C": "Elisha",
+      "D": "Jeremiah"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q42",
+    "category": "Bible",
+    "question": "Which three men were thrown into the fiery furnace?",
+    "options": {
+      "A": "Peter, James and John",
+      "B": "Shadrach, Meshach and Abednego",
+      "C": "Cain, Abel and Seth",
+      "D": "Moses, Aaron and Joshua"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Medium",
+    "points": 20
+  },
+  {
+    "id": "q43",
+    "category": "Bible",
+    "question": "Which woman became queen and helped save the Jewish people in Persia?",
+    "options": {
+      "A": "Ruth",
+      "B": "Deborah",
+      "C": "Esther",
+      "D": "Miriam"
+    },
+    "correctAnswer": "C",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q44",
+    "category": "Bible",
+    "question": "Which biblical figure is especially associated with enduring severe trials while remaining faithful?",
+    "options": {
+      "A": "Job",
+      "B": "Samson",
+      "C": "Gideon",
+      "D": "Ezra"
+    },
+    "correctAnswer": "A",
+    "difficulty": "Medium",
+    "points": 20
+  },
+  {
+    "id": "q45",
+    "category": "Bible",
+    "question": "Psalm 23 begins by describing the Lord as what?",
+    "options": {
+      "A": "A fortress",
+      "B": "A shepherd",
+      "C": "A judge",
+      "D": "A warrior"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q46",
+    "category": "Bible",
+    "question": "Which prophet wrote, 'Here am I; send me'?",
+    "options": {
+      "A": "Isaiah",
+      "B": "Jeremiah",
+      "C": "Ezekiel",
+      "D": "Hosea"
+    },
+    "correctAnswer": "A",
+    "difficulty": "Medium",
+    "points": 20
+  },
+  {
+    "id": "q47",
+    "category": "Bible",
+    "question": "Which is the first Gospel in the New Testament?",
+    "options": {
+      "A": "Mark",
+      "B": "Luke",
+      "C": "John",
+      "D": "Matthew"
+    },
+    "correctAnswer": "D",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q48",
+    "category": "Bible",
+    "question": "Who was the mother of Jesus?",
+    "options": {
+      "A": "Martha",
+      "B": "Elizabeth",
+      "C": "Mary",
+      "D": "Salome"
+    },
+    "correctAnswer": "C",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q49",
+    "category": "Bible",
+    "question": "In which town was Jesus born?",
+    "options": {
+      "A": "Nazareth",
+      "B": "Bethlehem",
+      "C": "Jerusalem",
+      "D": "Capernaum"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q50",
+    "category": "Bible",
+    "question": "Who baptized Jesus in the Jordan River?",
+    "options": {
+      "A": "Peter",
+      "B": "John the Baptist",
+      "C": "Andrew",
+      "D": "James"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q51",
+    "category": "Bible",
+    "question": "How many apostles did Jesus appoint?",
+    "options": {
+      "A": "Seven",
+      "B": "Ten",
+      "C": "Twelve",
+      "D": "Seventy"
+    },
+    "correctAnswer": "C",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q52",
+    "category": "Bible",
+    "question": "What was Jesus' first recorded miracle in the Gospel of John?",
+    "options": {
+      "A": "Feeding the five thousand",
+      "B": "Walking on water",
+      "C": "Turning water into wine",
+      "D": "Healing a blind man"
+    },
+    "correctAnswer": "C",
+    "difficulty": "Medium",
+    "points": 20
+  },
+  {
+    "id": "q53",
+    "category": "Bible",
+    "question": "Where did Jesus deliver the teaching commonly called the Sermon on the Mount?",
+    "options": {
+      "A": "On a mountain",
+      "B": "Inside the Temple",
+      "C": "On a boat",
+      "D": "In a palace"
+    },
+    "correctAnswer": "A",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q54",
+    "category": "Bible",
+    "question": "The Lord's Prayer begins with which words?",
+    "options": {
+      "A": "Holy, holy, holy",
+      "B": "Our Father in heaven",
+      "C": "Blessed are the meek",
+      "D": "The Lord is my shepherd"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q55",
+    "category": "Bible",
+    "question": "What food did Jesus multiply to feed about five thousand people?",
+    "options": {
+      "A": "Seven loaves and seven fish",
+      "B": "Five loaves and two fish",
+      "C": "Two loaves and five fish",
+      "D": "Twelve loaves and one fish"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Medium",
+    "points": 20
+  },
+  {
+    "id": "q56",
+    "category": "Bible",
+    "question": "Whom did Jesus raise from the dead after he had been in the tomb for four days?",
+    "options": {
+      "A": "Stephen",
+      "B": "Lazarus",
+      "C": "Jairus",
+      "D": "Nicodemus"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Medium",
+    "points": 20
+  },
+  {
+    "id": "q57",
+    "category": "Bible",
+    "question": "Which disciple betrayed Jesus?",
+    "options": {
+      "A": "Thomas",
+      "B": "Judas Iscariot",
+      "C": "Matthew",
+      "D": "Philip"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q58",
+    "category": "Bible",
+    "question": "Which disciple denied Jesus three times before the rooster crowed?",
+    "options": {
+      "A": "Peter",
+      "B": "John",
+      "C": "Andrew",
+      "D": "Bartholomew"
+    },
+    "correctAnswer": "A",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q59",
+    "category": "Bible",
+    "question": "At what place was Jesus crucified?",
+    "options": {
+      "A": "Bethany",
+      "B": "Golgotha",
+      "C": "Nazareth",
+      "D": "Emmaus"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Medium",
+    "points": 20
+  },
+  {
+    "id": "q60",
+    "category": "Bible",
+    "question": "According to the Gospels, on which day did Jesus rise from the dead?",
+    "options": {
+      "A": "The same day",
+      "B": "The second day",
+      "C": "The third day",
+      "D": "The seventh day"
+    },
+    "correctAnswer": "C",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q61",
+    "category": "Bible",
+    "question": "In which Gospel chapter is the Great Commission famously recorded as 'go and make disciples of all nations'?",
+    "options": {
+      "A": "Matthew 28",
+      "B": "Mark 1",
+      "C": "Luke 2",
+      "D": "John 3"
+    },
+    "correctAnswer": "A",
+    "difficulty": "Medium",
+    "points": 20
+  },
+  {
+    "id": "q62",
+    "category": "Bible",
+    "question": "In which chapter of Acts is the Day of Pentecost recorded?",
+    "options": {
+      "A": "Acts 1",
+      "B": "Acts 2",
+      "C": "Acts 9",
+      "D": "Acts 16"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Medium",
+    "points": 20
+  },
+  {
+    "id": "q63",
+    "category": "Bible",
+    "question": "On the road to which city did Saul encounter Jesus in a life-changing conversion experience?",
+    "options": {
+      "A": "Rome",
+      "B": "Jerusalem",
+      "C": "Damascus",
+      "D": "Antioch"
+    },
+    "correctAnswer": "C",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q64",
+    "category": "Bible",
+    "question": "Who was imprisoned with Paul when an earthquake opened the prison doors in Philippi?",
+    "options": {
+      "A": "Barnabas",
+      "B": "Silas",
+      "C": "Timothy",
+      "D": "Luke"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Medium",
+    "points": 20
+  },
+  {
+    "id": "q65",
+    "category": "Bible",
+    "question": "In which New Testament book is the 'fruit of the Spirit' listed?",
+    "options": {
+      "A": "Romans",
+      "B": "Galatians",
+      "C": "Ephesians",
+      "D": "Philippians"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Medium",
+    "points": 20
+  },
+  {
+    "id": "q66",
+    "category": "Bible",
+    "question": "Which chapter is often called the Bible's 'faith chapter' because it lists examples of faith?",
+    "options": {
+      "A": "Romans 8",
+      "B": "Hebrews 11",
+      "C": "James 2",
+      "D": "1 Peter 5"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Medium",
+    "points": 20
+  },
+  {
+    "id": "q67",
+    "category": "Bible",
+    "question": "In which book is the 'armor of God' described?",
+    "options": {
+      "A": "Ephesians",
+      "B": "Colossians",
+      "C": "Romans",
+      "D": "1 Thessalonians"
+    },
+    "correctAnswer": "A",
+    "difficulty": "Medium",
+    "points": 20
+  },
+  {
+    "id": "q68",
+    "category": "Bible",
+    "question": "Which chapter is widely known as the 'love chapter'?",
+    "options": {
+      "A": "Psalm 23",
+      "B": "John 17",
+      "C": "1 Corinthians 13",
+      "D": "Romans 12"
+    },
+    "correctAnswer": "C",
+    "difficulty": "Medium",
+    "points": 20
+  },
+  {
+    "id": "q69",
+    "category": "Bible",
+    "question": "Which verse contains the short statement 'Jesus wept'?",
+    "options": {
+      "A": "John 3:16",
+      "B": "John 11:35",
+      "C": "Matthew 5:9",
+      "D": "Luke 15:11"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Medium",
+    "points": 20
+  },
+  {
+    "id": "q70",
+    "category": "Bible",
+    "question": "In Revelation 21, what holy city is described as coming down out of heaven from God?",
+    "options": {
+      "A": "Jericho",
+      "B": "New Jerusalem",
+      "C": "Nazareth",
+      "D": "New Babylon"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Hard",
+    "points": 30
+  },
+  {
+    "id": "q71",
+    "category": "Growth Mindset",
+    "question": "Which statement best describes a growth mindset?",
+    "options": {
+      "A": "Abilities are fixed at birth",
+      "B": "Abilities can be developed through learning, strategy and practice",
+      "C": "Only talented people succeed",
+      "D": "Failure permanently limits ability"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q72",
+    "category": "Growth Mindset",
+    "question": "Which statement best reflects a fixed mindset?",
+    "options": {
+      "A": "I can improve with practice",
+      "B": "Feedback can help me grow",
+      "C": "I'm either naturally good at this or I'm not",
+      "D": "I can try a different strategy"
+    },
+    "correctAnswer": "C",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q73",
+    "category": "Growth Mindset",
+    "question": "Why is adding the word 'yet' useful in growth-mindset thinking?",
+    "options": {
+      "A": "It guarantees success",
+      "B": "It turns a present limitation into something that may improve",
+      "C": "It removes the need for practice",
+      "D": "It makes every task easy"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q74",
+    "category": "Growth Mindset",
+    "question": "How should constructive feedback generally be viewed in a growth mindset?",
+    "options": {
+      "A": "As information that can guide improvement",
+      "B": "As proof of low intelligence",
+      "C": "As a personal attack",
+      "D": "As something to ignore"
+    },
+    "correctAnswer": "A",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q75",
+    "category": "Growth Mindset",
+    "question": "What is a growth-minded response to a difficult challenge?",
+    "options": {
+      "A": "Avoid it immediately",
+      "B": "Try it, learn, and adjust strategies",
+      "C": "Assume difficulty means lack of talent",
+      "D": "Wait until it becomes easy"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q76",
+    "category": "Growth Mindset",
+    "question": "Which interpretation of failure best fits a growth mindset?",
+    "options": {
+      "A": "Failure is evidence that learning is impossible",
+      "B": "Failure can provide information about what to improve",
+      "C": "Failure should always be hidden",
+      "D": "Failure proves intelligence is fixed"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q77",
+    "category": "Growth Mindset",
+    "question": "Which combination best supports improvement?",
+    "options": {
+      "A": "Effort alone, regardless of method",
+      "B": "Effective effort, useful strategies, feedback and practice",
+      "C": "Natural talent without practice",
+      "D": "Repeating the same mistake indefinitely"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Medium",
+    "points": 20
+  },
+  {
+    "id": "q78",
+    "category": "Growth Mindset",
+    "question": "What is deliberate practice?",
+    "options": {
+      "A": "Doing only tasks you already master",
+      "B": "Focused practice aimed at specific weaknesses with feedback",
+      "C": "Practising randomly without goals",
+      "D": "Studying only when tested"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Medium",
+    "points": 20
+  },
+  {
+    "id": "q79",
+    "category": "Growth Mindset",
+    "question": "Which type of praise is most consistent with encouraging a growth mindset?",
+    "options": {
+      "A": "You're a genius",
+      "B": "You're naturally gifted",
+      "C": "Your strategy and persistence helped you solve that",
+      "D": "You're smarter than everyone else"
+    },
+    "correctAnswer": "C",
+    "difficulty": "Medium",
+    "points": 20
+  },
+  {
+    "id": "q80",
+    "category": "Growth Mindset",
+    "question": "Which comparison is most useful for growth-oriented learning?",
+    "options": {
+      "A": "Comparing yourself only with the top performer",
+      "B": "Comparing current progress with your previous performance",
+      "C": "Avoiding all measurement",
+      "D": "Measuring only final results"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Medium",
+    "points": 20
+  },
+  {
+    "id": "q81",
+    "category": "Growth Mindset",
+    "question": "Which goal best reflects a growth mindset?",
+    "options": {
+      "A": "Never make a mistake",
+      "B": "Learn how to solve progressively harder problems",
+      "C": "Always look smarter than others",
+      "D": "Only choose tasks you can already do"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q82",
+    "category": "Growth Mindset",
+    "question": "What can mistakes do during learning?",
+    "options": {
+      "A": "Reveal gaps and guide the next attempt",
+      "B": "Always reduce intelligence",
+      "C": "Make practice useless",
+      "D": "Prove the learner should stop"
+    },
+    "correctAnswer": "A",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q83",
+    "category": "Growth Mindset",
+    "question": "What does asking for help usually represent in a growth mindset?",
+    "options": {
+      "A": "Weakness",
+      "B": "A useful learning strategy when needed",
+      "C": "Proof that someone cannot learn",
+      "D": "A reason to avoid the task"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q84",
+    "category": "Growth Mindset",
+    "question": "If a study strategy repeatedly fails, what is the most growth-minded response?",
+    "options": {
+      "A": "Work longer using exactly the same method",
+      "B": "Change or refine the strategy and seek feedback",
+      "C": "Quit the subject",
+      "D": "Blame natural ability"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Medium",
+    "points": 20
+  },
+  {
+    "id": "q85",
+    "category": "Growth Mindset",
+    "question": "How should constructive criticism be handled?",
+    "options": {
+      "A": "Evaluate it and use relevant points to improve",
+      "B": "Reject it automatically",
+      "C": "Treat it as a final judgment of ability",
+      "D": "Avoid anyone who gives feedback"
+    },
+    "correctAnswer": "A",
+    "difficulty": "Medium",
+    "points": 20
+  },
+  {
+    "id": "q86",
+    "category": "Growth Mindset",
+    "question": "What is a stretch goal?",
+    "options": {
+      "A": "A goal that is challenging enough to require growth",
+      "B": "A goal with no measurable outcome",
+      "C": "A goal that requires no effort",
+      "D": "A goal chosen only to impress others"
+    },
+    "correctAnswer": "A",
+    "difficulty": "Medium",
+    "points": 20
+  },
+  {
+    "id": "q87",
+    "category": "Growth Mindset",
+    "question": "Which statement about persistence is most accurate from a growth-mindset perspective?",
+    "options": {
+      "A": "Persistence means never changing your approach",
+      "B": "Persistence works best when combined with reflection and strategy changes",
+      "C": "Persistence guarantees every goal",
+      "D": "Persistence matters only for beginners"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Hard",
+    "points": 30
+  },
+  {
+    "id": "q88",
+    "category": "Growth Mindset",
+    "question": "What is neuroplasticity?",
+    "options": {
+      "A": "The brain's ability to change and form new connections through experience and learning",
+      "B": "The belief that intelligence never changes",
+      "C": "A method of memorising without understanding",
+      "D": "A personality test"
+    },
+    "correctAnswer": "A",
+    "difficulty": "Medium",
+    "points": 20
+  },
+  {
+    "id": "q89",
+    "category": "Growth Mindset",
+    "question": "Why is reflection useful after completing a task?",
+    "options": {
+      "A": "It helps identify what worked, what failed and what to change next",
+      "B": "It proves mistakes should be avoided",
+      "C": "It replaces future practice",
+      "D": "It guarantees a perfect next attempt"
+    },
+    "correctAnswer": "A",
+    "difficulty": "Medium",
+    "points": 20
+  },
+  {
+    "id": "q90",
+    "category": "Growth Mindset",
+    "question": "A student scores poorly on a test. Which response best demonstrates a growth mindset?",
+    "options": {
+      "A": "I'm just bad at this subject",
+      "B": "I'll review my mistakes, ask for help and change how I study",
+      "C": "There is no reason to try again",
+      "D": "The score proves my ability cannot improve"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Medium",
+    "points": 20
+  },
+  {
+    "id": "q91",
+    "category": "General Knowledge Tie-Breaker",
+    "question": "What is the largest planet in our Solar System?",
+    "options": {
+      "A": "Earth",
+      "B": "Saturn",
+      "C": "Jupiter",
+      "D": "Neptune"
+    },
+    "correctAnswer": "C",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q92",
+    "category": "General Knowledge Tie-Breaker",
+    "question": "Which ocean is the largest by surface area?",
+    "options": {
+      "A": "Atlantic Ocean",
+      "B": "Indian Ocean",
+      "C": "Pacific Ocean",
+      "D": "Arctic Ocean"
+    },
+    "correctAnswer": "C",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q93",
+    "category": "General Knowledge Tie-Breaker",
+    "question": "What is the chemical symbol for gold?",
+    "options": {
+      "A": "Ag",
+      "B": "Au",
+      "C": "Gd",
+      "D": "Go"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Medium",
+    "points": 20
+  },
+  {
+    "id": "q94",
+    "category": "General Knowledge Tie-Breaker",
+    "question": "How many sides does a regular hexagon have?",
+    "options": {
+      "A": "Five",
+      "B": "Six",
+      "C": "Seven",
+      "D": "Eight"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q95",
+    "category": "General Knowledge Tie-Breaker",
+    "question": "Which organ pumps blood around the human body?",
+    "options": {
+      "A": "Liver",
+      "B": "Heart",
+      "C": "Kidney",
+      "D": "Lung"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q96",
+    "category": "General Knowledge Tie-Breaker",
+    "question": "What is 15 × 12?",
+    "options": {
+      "A": "160",
+      "B": "170",
+      "C": "180",
+      "D": "190"
+    },
+    "correctAnswer": "C",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q97",
+    "category": "General Knowledge Tie-Breaker",
+    "question": "Which gas do plants primarily absorb from the atmosphere for photosynthesis?",
+    "options": {
+      "A": "Oxygen",
+      "B": "Hydrogen",
+      "C": "Carbon dioxide",
+      "D": "Nitrogen"
+    },
+    "correctAnswer": "C",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q98",
+    "category": "General Knowledge Tie-Breaker",
+    "question": "Which continent contains the Sahara Desert?",
+    "options": {
+      "A": "Asia",
+      "B": "Africa",
+      "C": "South America",
+      "D": "Australia"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q99",
+    "category": "General Knowledge Tie-Breaker",
+    "question": "At sea level, pure water boils at what temperature on the Celsius scale?",
+    "options": {
+      "A": "90°C",
+      "B": "95°C",
+      "C": "100°C",
+      "D": "110°C"
+    },
+    "correctAnswer": "C",
+    "difficulty": "Easy",
+    "points": 10
+  },
+  {
+    "id": "q100",
+    "category": "General Knowledge Tie-Breaker",
+    "question": "Which instrument is used to measure atmospheric pressure?",
+    "options": {
+      "A": "Thermometer",
+      "B": "Barometer",
+      "C": "Hygrometer",
+      "D": "Altimeter"
+    },
+    "correctAnswer": "B",
+    "difficulty": "Medium",
+    "points": 20
+  }
+]
