@@ -83,7 +83,7 @@ export const TournamentOverview: React.FC = () => {
           <div className="max-w-2xl">
             <div className="inline-flex items-center gap-2 px-3.5 py-1 rounded-full bg-gold/15 border border-gold/40 text-gold text-xs font-bold uppercase tracking-wider mb-3">
               <Sparkles className="w-3.5 h-3.5" />
-              <span>Live Interschool Competition Mode</span>
+              <span>Live Tournament Competition Mode</span>
             </div>
             
             <h1 className="font-display font-black text-2xl sm:text-3xl md:text-4xl text-white tracking-tight leading-tight">
@@ -91,7 +91,7 @@ export const TournamentOverview: React.FC = () => {
             </h1>
             
             <p className="text-xs sm:text-base text-slate-300 mt-2">
-              A high-octane 3-tier tournament designed for interschool qualifiers, rapid speed runs, and dramatic grand finales with dynamic tension music.
+              A high-octane 3-tier tournament designed for qualifiers, rapid speed runs, and dramatic grand finales with dynamic tension music.
             </p>
           </div>
 

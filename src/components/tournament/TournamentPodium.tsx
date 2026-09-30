@@ -65,7 +65,7 @@ export const TournamentPodium: React.FC = () => {
         </h1>
 
         <p className="text-xs sm:text-sm md:text-base text-slate-300">
-          Congratulations to our top finalists and all participating scholars in the {state.competition.title || 'Interschool Quiz Competition'}!
+          Congratulations to our top finalists and all participating scholars in the {state.competition.title || 'Quiz Competition'}!
         </p>
       </div>
 

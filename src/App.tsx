@@ -58,7 +58,7 @@ const AppContent: React.FC = () => {
             <div className="flex items-center gap-2 flex-wrap justify-center sm:justify-start">
               <Trophy className="w-4 h-4 text-gold shrink-0" />
               <span className="font-display font-bold text-white">{PRODUCT_NAME}</span>
-              <span className="hidden sm:inline">— Offline-Ready Interschool Competition Platform</span>
+              <span className="hidden sm:inline">— Offline-Ready Quiz Platform</span>
             </div>
 
             <div className="flex items-center gap-3 text-[11px] text-slate-400 flex-wrap justify-center sm:justify-end">

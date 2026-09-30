@@ -35,8 +35,8 @@ export const DEFAULT_SETTINGS: QuizSettings = {
   safeLevelsEnabled: true,
   safeQuestionNumbers: [5, 10, 15],
 
-  competitionTitle: 'National Interschool Quiz Championship',
-  competitionSubtitle: 'Excellence in Knowledge & Intellectual Rigour',
+  competitionTitle: 'QuizArena Championship',
+  competitionSubtitle: '',
   organizerName: 'Quizmaster Committee',
   competitionDate: new Date().toISOString().split('T')[0],
   soundEnabled: true,
@@ -96,9 +96,22 @@ export function loadCompetitionState(): CompetitionState {
 
       const hasContestants = sanitizedContestants.length > 0;
 
+      // Clean up legacy titles/subtitles
+      const comp = {
+        ...getInitialState().competition,
+        ...(parsed.competition || {}),
+      };
+      if (comp.subtitle === 'Excellence in Knowledge & Intellectual Rigour' || comp.subtitle === 'Excellence in Knowledge & Intellectual Rigour') {
+        comp.subtitle = '';
+      }
+      if (comp.title === 'National Interschool Quiz Championship') {
+        comp.title = 'QuizArena Championship';
+      }
+
       return {
         ...getInitialState(),
         ...parsed,
+        competition: comp,
         contestants: sanitizedContestants,
         questions: activeQuestions,
         attempts: hasContestants ? (parsed.attempts || []) : [],

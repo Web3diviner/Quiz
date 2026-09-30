@@ -36,24 +36,22 @@ export const LandingPage: React.FC = () => {
         <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[600px] h-[300px] bg-primary/20 blur-[120px] pointer-events-none rounded-full" />
         <div className="absolute bottom-0 right-10 w-[300px] h-[200px] bg-gold/15 blur-[100px] pointer-events-none rounded-full" />
 
-        {/* Live Badge */}
-        <div className="inline-flex items-center gap-2 px-3 sm:px-4 py-1 sm:py-1.5 rounded-full bg-primary/20 border border-primary/40 text-primary-light text-[11px] sm:text-xs font-bold uppercase tracking-wider mb-4 sm:mb-6 shadow-sm">
-          <Radio className="w-3.5 h-3.5 text-emerald-400 animate-pulse" />
-          <span>Stage Ready • 100-Question Verified Bank • 3-Phase Tournament</span>
-        </div>
-
         {/* Title & Subtitle */}
         <h1 className="font-display font-black text-3xl sm:text-5xl md:text-6xl lg:text-7xl text-white tracking-tight leading-tight max-w-4xl mx-auto">
           {state.competition.title || PRODUCT_NAME}
         </h1>
 
-        <p className="mt-2 sm:mt-4 font-display text-base sm:text-xl md:text-2xl text-gold font-semibold tracking-wide max-w-2xl mx-auto">
-          {state.competition.subtitle || PRODUCT_SUBTITLE}
-        </p>
+        {state.competition.subtitle ? (
+          <p className="mt-2 sm:mt-4 font-display text-base sm:text-xl md:text-2xl text-gold font-semibold tracking-wide max-w-2xl mx-auto">
+            {state.competition.subtitle}
+          </p>
+        ) : null}
 
-        <p className="mt-2 sm:mt-3 text-xs sm:text-sm md:text-base text-slate-300 max-w-2xl mx-auto leading-relaxed">
-          {PRODUCT_TAGLINE}
-        </p>
+        {PRODUCT_TAGLINE ? (
+          <p className="mt-2 sm:mt-3 text-xs sm:text-sm md:text-base text-slate-300 max-w-2xl mx-auto leading-relaxed">
+            {PRODUCT_TAGLINE}
+          </p>
+        ) : null}
 
         {/* CTAs */}
         <div className="mt-8 flex flex-col sm:flex-row items-center justify-center gap-4">
@@ -129,7 +127,7 @@ export const LandingPage: React.FC = () => {
               The 3-Phase Live Competition System
             </h2>
             <p className="text-xs sm:text-sm text-slate-400 mt-1">
-              Built specifically for interschool elimination tournaments with dynamic tension soundtrack and live podium ceremony.
+              Built specifically for live elimination tournaments with dynamic tension soundtrack and live podium ceremony.
             </p>
           </div>
 
